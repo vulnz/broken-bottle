@@ -1,8 +1,7 @@
-
-      ![Bing Broken Bottle Project](https://raw.githubusercontent.com/vulnz/broken-bottle/master/img/bing_broken.png)
+#
+![Bing Broken Bottle Project](https://raw.githubusercontent.com/vulnz/broken-bottle/master/img/bing_broken.png)
 # About
 This is Bing Broken Bottle project created for mass IP range scanning in order to get domain names using Bing RSS as vulnerability. As long as bing gives hard limits on search, we found a way to bypass it.
-It can be used as IP Range checker for neighbors on certain ips.
 
 # How to install
 Everything is ready to go.
