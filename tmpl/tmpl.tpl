@@ -22,7 +22,7 @@
 		<br />
 		
 		<center>Broken Bottle project<br>
-		<a href ="/dashboard/odessa/range.php?ip1=1.1.1.1&ip2=1.1.1.2">Mass Scan </a>
+		<a href ="range.php?ip1=1.1.1.1&ip2=1.1.1.2">Mass Scan </a>
 <a href ="index.php">| Database Search |</a>
 <a href ="single.php">| Single check |</a>
 <a href ="bin.zip">| Download curl |</a>
