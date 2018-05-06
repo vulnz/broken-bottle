@@ -5,7 +5,7 @@ error_reporting(0);
 //fetch.php
 
 // Mysql connecton
-$connect = mysqli_connect("localhost", "root", "", "umbrella");
+//$connect = mysqli_connect("localhost", "root", "", "umbrella");
 mysqli_set_charset($connect, 'utf8');
 $output = '';
 if(isset($_POST["query"]))
